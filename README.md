@@ -8,13 +8,6 @@ RESTful Backend API built with FastAPI, SQLalchemy with Python's built-in databa
 * SQLite
 * Pandas
 
-## Files Structure
-All code files + CSV should be in directory 'sql_app' except:
-1. Docker
-2. .gitignore
-3. README.md
-4. requirements.txt
-
 ## Docker Run
 cd to where the Dockfile is (outside of sql_app folder):
 ```bash
